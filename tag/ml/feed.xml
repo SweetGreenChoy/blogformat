@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://sweetgreenchoy.github.io/tag/ml/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://sweetgreenchoy.github.io/" rel="alternate" type="text/html" />
+  <updated>2022-05-03T10:58:10+09:00</updated>
+  <id>https://sweetgreenchoy.github.io/tag/ml/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">EastWestSide | </title>
+  
+
+  
+    <subtitle>Technical Record of an Entry Level Developer</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Study Note</title>
+      <link href="https://sweetgreenchoy.github.io/ML-note" rel="alternate" type="text/html" title="Study Note" />
+      <published>2022-04-15T17:38:00+09:00</published>
+      <updated>2022-04-15T17:38:00+09:00</updated>
+      <id>https://sweetgreenchoy.github.io/ML-note</id>
+      <content type="html" xml:base="https://sweetgreenchoy.github.io/ML-note">&lt;p&gt;This is machine learning study for today&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Choy Seoyeon</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="ML" />
+      
+
+      
+        <summary type="html">This is machine learning study for today</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

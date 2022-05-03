@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>Technical Record of an Entry Level Developer</description>
+    <link>
+    https://sweetgreenchoy.github.io</link>
+    
+      
+      <item>
+        <title>Study Note</title>
+        
+          <description>&lt;p&gt;This is machine learning study for today&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 15 Apr 2022 17:38:00 +0900</pubDate>
+        <link>
+        https://sweetgreenchoy.github.io/ML-note</link>
+        <guid isPermaLink="true">https://sweetgreenchoy.github.io/ML-note</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Python 강좌(2) - Python 제어문</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Study Note&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Fri, 15 Apr 2022 17:34:00 +0900</pubDate>
+        <link>
+        https://sweetgreenchoy.github.io/Python-control-statement</link>
+        <guid isPermaLink="true">https://sweetgreenchoy.github.io/Python-control-statement</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Study Note</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Study Note&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Fri, 15 Apr 2022 17:34:00 +0900</pubDate>
+        <link>
+        https://sweetgreenchoy.github.io/Python-basic</link>
+        <guid isPermaLink="true">https://sweetgreenchoy.github.io/Python-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Gettysburg Address</title>
+        
+          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
+        <link>
+        https://sweetgreenchoy.github.io/gettysburg-address</link>
+        <guid isPermaLink="true">https://sweetgreenchoy.github.io/gettysburg-address</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
